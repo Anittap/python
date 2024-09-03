@@ -1,6 +1,4 @@
 import boto3
-import subprocess
-import pprint
 
 access_key = "haaja926910"
 secret_key = "538191017"
